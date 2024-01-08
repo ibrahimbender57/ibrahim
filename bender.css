@@ -1,0 +1,13 @@
+#kutu{
+border-style: inset;
+border-color: brown;
+background-color: blue;
+border-radius: 15px;
+margin-right: 1500px;
+padding: 20px;
+border: 9px;
+display: flex;
+
+
+
+}

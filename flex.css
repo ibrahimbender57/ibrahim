@@ -1,0 +1,32 @@
+ body {
+    height: 100vh;
+    margin: 0px;
+display: flex;
+justify-content: space-around;
+padding-right: 15px;
+padding-left: 15px;
+flex-direction:row;
+align-items: center;
+border: 10px;
+border-color: darkred;
+border-style: inset;
+border-radius: 30px;
+background-color: brown;
+
+}
+
+
+.div{
+border: 3px;
+padding: 1rem;
+border-color: red;
+border-style: inset;
+
+
+}
+@media only screen and (max-width: 600px) {
+    body {
+      background-color:darkorange;
+    }
+  }
+  
